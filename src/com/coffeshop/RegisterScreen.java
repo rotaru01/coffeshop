@@ -13,7 +13,7 @@ public class RegisterScreen extends Activity
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		this.requestWindowFeature(Window.FEATURE_NO_TITLE);
-		setContentView(R.layout.register_screen);
+		setContentView(R.layout.register_screen);//demo demos
 	}
 
 }
